@@ -45,7 +45,7 @@ body {
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease;
   /* Se asegura de que el tamaño y la posición sean constantes */
-  margin-top: 115px; /* Ajusta este valor para bajar los botones */
+  margin-top: 0px; /* Ajusta este valor para bajar los botones */
   display: inline-block;
 }
 
@@ -86,7 +86,7 @@ body {
   text-align: center;
   color: white;
   z-index: 0;
-  padding-top: 100px; /* Ajustar esta propiedad para mover hacia abajo */
+  padding-top: 0px; /* Ajustar esta propiedad para mover hacia abajo */
   overflow: hidden; /* Elimina las barras de desplazamiento */
 }
 
@@ -131,7 +131,7 @@ body {
   text-align: center;
   color: white;
   z-index: 0;
-  padding-top: 100px; /* Ajustar esta propiedad para mover hacia abajo */
+  padding-top: 0px; /* Ajustar esta propiedad para mover hacia abajo */
   overflow: hidden; /* Elimina las barras de desplazamiento */
 }
 
