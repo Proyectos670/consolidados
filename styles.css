@@ -131,7 +131,7 @@ body {
   text-align: center;
   color: white;
   z-index: 0;
-  padding-top: 250px; /* Ajustar esta propiedad para mover hacia abajo */
+  padding-top: 100px; /* Ajustar esta propiedad para mover hacia abajo */
   overflow: hidden; /* Elimina las barras de desplazamiento */
 }
 
